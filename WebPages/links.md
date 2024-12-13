@@ -11,4 +11,4 @@
 9. [SOC Prime Platform](https://tdm.socprime.com/signup) *
 10. [ssdeep - Fuzzy hashing program](https://ssdeep-project.github.io/ssdeep/index.html)
 
-* - not free
+* not free
